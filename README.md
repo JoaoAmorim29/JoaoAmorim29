@@ -2,9 +2,10 @@
 
 <div>
   <a href="https://github.com/JoaoAmorim29">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAmorim29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAmorim29&layout=compact&langs_count=16&theme=algolia"/>
+  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoAmorim29&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoAmorim29&layout=compact&langs_count=16&theme=algolia"/>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
